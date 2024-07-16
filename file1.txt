@@ -1,3 +1,4 @@
 hello git
 커밋 수정aaa
 새로운 커밋core editor changed
+second push
