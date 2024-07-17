@@ -3,3 +3,4 @@ hello git
 새로운 커밋core editor changed
 second push
 third -  my branch
+fourth - my branch
